@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\willito\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\willito\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\willito\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\willito\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_EtoTest.-1835868425.00" t="ExcludeRecursive" />
+    <e p="C:\Users\willito\RiderProjects\EtoTest" t="IncludeFlat">
+      <e p="EtoOtherForm" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="EtoOtherForm.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard1.6" t="Include">
+              <e p="EtoOtherForm.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EtoTest\EtoTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EtoTest.csproj" t="IncludeRecursive" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard1.6" t="Include">
+              <e p="EtoTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EtoTest\EtoTest.Desktop" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EtoTest.Desktop.csproj" t="IncludeRecursive" />
+        <e p="Info.plist" t="Include" />
+        <e p="MacIcon.icns" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net461" t="Include">
+              <e p="EtoTest.Desktop.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="EtoTest.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

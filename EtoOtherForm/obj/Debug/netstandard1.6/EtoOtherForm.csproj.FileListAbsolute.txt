@@ -1,0 +1,8 @@
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\bin\Debug\netstandard1.6\EtoOtherForm.deps.json
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\bin\Debug\netstandard1.6\EtoOtherForm.dll
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\bin\Debug\netstandard1.6\EtoOtherForm.pdb
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\obj\Debug\netstandard1.6\EtoOtherForm.csprojAssemblyReference.cache
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\obj\Debug\netstandard1.6\EtoOtherForm.AssemblyInfoInputs.cache
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\obj\Debug\netstandard1.6\EtoOtherForm.AssemblyInfo.cs
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\obj\Debug\netstandard1.6\EtoOtherForm.dll
+C:\Users\willito\RiderProjects\EtoTest\EtoOtherForm\obj\Debug\netstandard1.6\EtoOtherForm.pdb

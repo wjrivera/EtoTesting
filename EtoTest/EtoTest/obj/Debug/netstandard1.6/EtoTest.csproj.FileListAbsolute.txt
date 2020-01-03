@@ -1,0 +1,8 @@
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\bin\Debug\netstandard1.6\EtoTest.deps.json
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\bin\Debug\netstandard1.6\EtoTest.dll
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\bin\Debug\netstandard1.6\EtoTest.pdb
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\obj\Debug\netstandard1.6\EtoTest.csprojAssemblyReference.cache
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\obj\Debug\netstandard1.6\EtoTest.AssemblyInfoInputs.cache
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\obj\Debug\netstandard1.6\EtoTest.AssemblyInfo.cs
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\obj\Debug\netstandard1.6\EtoTest.dll
+C:\Users\willito\RiderProjects\EtoTest\EtoTest\EtoTest\obj\Debug\netstandard1.6\EtoTest.pdb

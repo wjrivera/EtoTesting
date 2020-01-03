@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoTest", "EtoTest\EtoTest\EtoTest.csproj", "{486DDD1F-C106-4CF2-9CB8-CF25F6E80FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoTest.Desktop", "EtoTest\EtoTest.Desktop\EtoTest.Desktop.csproj", "{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtoOtherForm", "EtoOtherForm\EtoOtherForm.csproj", "{0F32677B-73B9-4ADD-BB00-23AD0331B637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486DDD1F-C106-4CF2-9CB8-CF25F6E80FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486DDD1F-C106-4CF2-9CB8-CF25F6E80FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486DDD1F-C106-4CF2-9CB8-CF25F6E80FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486DDD1F-C106-4CF2-9CB8-CF25F6E80FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7A1C8D-5CBC-41F3-8AA9-C7EE1419BDFE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0F32677B-73B9-4ADD-BB00-23AD0331B637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F32677B-73B9-4ADD-BB00-23AD0331B637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F32677B-73B9-4ADD-BB00-23AD0331B637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F32677B-73B9-4ADD-BB00-23AD0331B637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

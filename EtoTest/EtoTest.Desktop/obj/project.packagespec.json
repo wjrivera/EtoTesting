@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoTest\\EtoTest.Desktop\\EtoTest.Desktop.csproj",
+    "projectName": "EtoTest.Desktop",
+    "projectPath": "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoTest\\EtoTest.Desktop\\EtoTest.Desktop.csproj",
+    "outputPath": "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoTest\\EtoTest.Desktop\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net461"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {},
+      "https://pkgs.dev.azure.com/traceam/_packaging/TraceSharedFeed@Local/nuget/v3/index.json": {}
+    },
+    "frameworks": {
+      "net461": {
+        "projectReferences": {
+          "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoOtherForm\\EtoOtherForm.csproj": {
+            "projectPath": "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoOtherForm\\EtoOtherForm.csproj"
+          },
+          "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoTest\\EtoTest\\EtoTest.csproj": {
+            "projectPath": "C:\\Users\\willito\\RiderProjects\\EtoTest\\EtoTest\\EtoTest\\EtoTest.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net461": {
+      "dependencies": {
+        "Eto.Platform.Gtk": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "Eto.Platform.Mac64": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "Eto.Platform.Wpf": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}
